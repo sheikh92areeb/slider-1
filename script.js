@@ -22,5 +22,5 @@ prev.addEventListener('click', function() {
     updateBackground(); // Update body background
 });
 
- // Initialize the body background
- updateBackground();
+// Initialize the body background
+updateBackground();
